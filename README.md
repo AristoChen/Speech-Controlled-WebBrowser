@@ -11,7 +11,7 @@ This project uses Google SpeechRecognition API to recognize what you said, and c
 # pip install selenium
 ```
 
-#### install ChromeDriver
+#### Install ChromeDriver
 This project use [chromedriver](http://chromedriver.chromium.org/) in selenium, before running this project, you have to add the downloaded executable file to PATH enviroment variable.
 
 #### Setting
