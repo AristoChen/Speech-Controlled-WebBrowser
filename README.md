@@ -9,6 +9,8 @@ This project uses Google SpeechRecognition API to recognize what you said, and c
 # pip install SpeechRecognition
 # pip install pyaudio
 # pip install selenium
+# pip install bs4
+# pip install BeautifulSoup
 ```
 
 #### Install ChromeDriver
